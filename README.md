@@ -1,0 +1,15 @@
+# basic-c
+A group of Basic C Programs.
+## [1. (a) Swap two numbers with temporary variable](../master/1a-swap-temp.c)
+## [1. (b) Swap two numbers without temporary variable](../master/1b-swap-notemp.c)
+## [2. Print natural numbers in reverse order n to 1](../master/2-looprevnum.c)
+## [3. Print multiplication table of any number](../master/3-multiplicationtable.c)
+## [4. Count number of digits in a number.](../master/4-numofdigits.c)
+## [5. Find first and last  digits in a number](../master/5-firstdigitandlastdigit.c)
+## [6. Swap first and last digits of a number](../master/6-swapfdigitandldigit.c)
+## [7. Factorial of number. ](../master/7-factorialofanum.c)
+## [8. Find all factors of a number.](../master/8-factorsofanum.c)
+## [9. Check whether a number is perfect  or not](../master/9-perfectornot.c)
+## [10. Check whether a number is strong or not](../master/10-strongornot.c)
+## [11. Print Fibonacci series up-to n terms](../master/11-fibonacci.c)
+## [12. HCF of two numbers](../master/12-hcf.c)
